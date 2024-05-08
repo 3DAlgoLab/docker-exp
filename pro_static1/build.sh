@@ -1,0 +1,1 @@
+docker build -t custom-nginx:0.1 .
